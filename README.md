@@ -1,1 +1,0 @@
-# Sharing Jupyter notebook exercise
